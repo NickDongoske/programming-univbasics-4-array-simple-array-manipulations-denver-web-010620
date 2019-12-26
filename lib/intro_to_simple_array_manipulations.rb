@@ -1,10 +1,8 @@
 def using_push(array, string)
-  using_push = array
   array.push("violet")
 end
 
 def using_unshift(array, string)
-  using_unshift = array
   array.unshift("Staten Island")
 end
 
